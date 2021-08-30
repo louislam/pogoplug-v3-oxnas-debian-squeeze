@@ -4,7 +4,7 @@ ArchLinux ARM ("ALARM") switch to Debian Squeeze
 
 Just found this Pogoplug in one of my cabinets. It was still able to boot up, but since Arch Linux do not maintain for old devices, installing new updates was completely broken my OS. After a lot of research, switching to debian squeeze is a safe way that makes the pogoplug v3 usable again, as most other methods required a ttl cable and flash uboot.
 
-This image was made by myself and followed the guide line from howtoforge. 
+This image was made by myself and followed the guideline from howtoforge. 
 
 - Changed to Debian Archive source and disabled PGP check, so you can install packages.
 
