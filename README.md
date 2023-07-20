@@ -118,3 +118,17 @@ You need Ubuntu Live USB to do that. You need one more USB drive:
 
 Reference:
 https://www.howtoforge.com/installing-debian-squeeze-on-pogoplug-v3-oxnas-cleanly
+
+## Install Software
+
+You can install software by using `apt-get`, of course, there is no `apt`.
+
+`apt-get install curl`
+
+
+### Install PHP 5.3.3
+
+```bash
+apt-get install php5
+php -v
+```
