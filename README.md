@@ -113,5 +113,8 @@ You need Ubuntu Live USB to do that. You need one more USB drive:
 1. Power on your pogoplug.
 2. Wait for 5 minutes until the led light is solid green. You can now try to ssh to your pogoplug.
 
+![image](https://github.com/louislam/pogoplug-v3-oxnas-debian-squeeze/assets/1336778/d799e725-7807-40c3-8c44-ecefdadb5280)
+
+
 Reference:
 https://www.howtoforge.com/installing-debian-squeeze-on-pogoplug-v3-oxnas-cleanly
